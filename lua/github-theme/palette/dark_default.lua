@@ -58,7 +58,7 @@ return function()
     -- Syntax Colors
     syntax = {
       comment = '#8b949e',
-      -- constant = '#79c0ff',
+      constant = '#79c0ff',
       string = '#a5d6ff',
       variable = '#ffa657',
       keyword = '#ff7b72',
